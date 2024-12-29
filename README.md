@@ -1,16 +1,14 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!%20👋&animation=fadeIn&type=waving&color=8c51ff&fontColor=ffffff&height=130"/>
+</p>
 
-<!--
-**syn4767/syn4767** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About Me
 
-Here are some ideas to get you started:
+I'm mostly known as Syn on most social media platforms. I enjoy writing scripts and developing games.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+# Github Stats
+<br>
+
+![Syn's GitHub stats](https://github-readme-stats.vercel.app/api?username=syn4767&show_icons=true&theme=synthwave)
